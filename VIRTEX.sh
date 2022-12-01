@@ -67,8 +67,9 @@ sleep 3
         echo
         echo [1]"‣ Download Virtex 1"
         echo [2]"‣ Download Virtex 2"
-        echo [3]"‣ Donasi Ke Admin"
-        echo [4]"‣ Jadi Member Vip"
+        echo [3]"‣ Download Virtex 3"
+        echo [4]"‣ Donasi Ke Admin"
+        echo [5]"‣ Jadi Member Vip"
         echo [0]"‣ Exit Script"
         echo
         read -p "PILIHANMU ‣ : " bro
@@ -106,7 +107,6 @@ echo "Download Virtex Dan Buka File Di Chrome"
 echo "Setelah Di Buka Salin Virtex Dan Jangan Di Ubah Akan Eror"
 echo "Tempel Ke WhatsApp Kebalmu Dan Kirim"
 fi
-
 
 if [ $bro = 2 ] || [ $bro = 2 ]
 then
@@ -156,6 +156,40 @@ echo "#########################################################"
 echo
 sleep 2
 echo
+echo $"Mencari Virtex..."
+sleep 4
+echo $"Loading..."
+echo $"Keluar Dengan CTRL+Z"
+sleep 3
+echo
+echo "Rizqi Virtex sudah di temukan!"
+sleep 3
+echo
+echo "___________________________________________________"
+echo
+echo "https://www.mediafire.com/download/ximo1v380i9usll"
+echo "___________________________________________________"
+echo
+sleep 3
+echo "Download Virtex Dan Buka File Di Chrome"
+echo "Setelah Di Buka Salin Virtex Dan Jangan Di Ubah Akan Eror"
+echo "Tempel Ke WhatsApp Kebalmu Dan Kirim"
+fi
+
+if [ $bro = 4 ] || [ $bro = 4 ]
+then
+clear
+
+echo "#########################################################"
+echo "#                                                       #"
+echo "#                  Author : Riski Ganzz                 #"
+echo "#                  Github : Riskimbmbg                  #"
+echo "#                 Youtube : riskimbmbg                  #"
+echo "#                                                       #"
+echo "#########################################################"
+echo
+sleep 2
+echo
 echo "TERMIKASIH BANYAK BRE UDAH MAU DONASI"
 echo "Kirim Pulsa Aja Bre"
 echo
@@ -171,7 +205,7 @@ echo "Requests Script? 5000 Ya Bre"
 echo "Wa Aja Di Nomer Di Atas"
 fi
 
-if [ $bro = 4 ] || [ $bro = 4 ]
+if [ $bro = 5 ] || [ $bro = 5 ]
 then
 clear
 
