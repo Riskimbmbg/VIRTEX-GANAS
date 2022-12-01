@@ -56,6 +56,9 @@ echo "#                                                       #"
 echo "#########################################################"
 echo
 sleep 3
+        echo "SUBSCRIBE DULU LAH CAPEK BIKIN SCRIPT"
+        echo
+        echo "https://youtube.com/@riskimbmbg276"
 	echo "Jangan Di Salah Gunakan Ingat!"
 	sleep 4
 	echo
