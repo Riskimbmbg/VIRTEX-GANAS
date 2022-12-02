@@ -56,9 +56,6 @@ echo "#                                                       #"
 echo "#########################################################"
 echo
 sleep 3
-        echo "SUBSCRIBE DULU LAH CAPEK BIKIN SCRIPT"
-        echo
-        echo "https://youtube.com/@riskimbmbg276"
 	echo "Jangan Di Salah Gunakan Ingat!"
 	sleep 4
 	echo
@@ -68,8 +65,9 @@ sleep 3
         echo [1]"‣ Download Virtex 1"
         echo [2]"‣ Download Virtex 2"
         echo [3]"‣ Download Virtex 3"
-        echo [4]"‣ Donasi Ke Admin"
-        echo [5]"‣ Jadi Member Vip"
+        echo [4]"‣ Download Virtex 4"
+        echo [5]"‣ Donasi Ke Admin"
+        echo [6]"‣ Jadi Member Vip"
         echo [0]"‣ Exit Script"
         echo
         read -p "PILIHANMU ‣ : " bro
@@ -190,6 +188,41 @@ echo "#########################################################"
 echo
 sleep 2
 echo
+echo $"Mencari Virtex..."
+sleep 4
+echo $"Loading..."
+echo $"Keluar Dengan CTRL+Z"
+sleep 3
+echo
+echo "Rizqi Virtex sudah di temukan!"
+sleep 3
+echo
+echo "___________________________________________________"
+echo
+echo "https://www.mediafire.com/download/ypvd64yi0xbewvl"
+echo "___________________________________________________"
+echo
+sleep 3
+echo "Download Virtex Dan Buka File Di Chrome"
+echo "Setelah Di Buka Salin Virtex Dan Jangan Di Ubah Akan Eror"
+echo "Tempel Ke WhatsApp Kebalmu Dan Kirim"
+fi
+
+
+if [ $bro = 5 ] || [ $bro = 5 ]
+then
+clear
+
+echo "#########################################################"
+echo "#                                                       #"
+echo "#                  Author : Riski Ganzz                 #"
+echo "#                  Github : Riskimbmbg                  #"
+echo "#                 Youtube : riskimbmbg                  #"
+echo "#                                                       #"
+echo "#########################################################"
+echo
+sleep 2
+echo
 echo "TERMIKASIH BANYAK BRE UDAH MAU DONASI"
 echo "Kirim Pulsa Aja Bre"
 echo
@@ -201,11 +234,11 @@ echo "Sampai Jumpa Di Script Gua Selanjutnya"
 echo
 echo
 echo
-echo "Requests Script? 5000 Ya Bre"
+echo "Requests Script? Tergantung Scriptnya Apa Ya Bre"
 echo "Wa Aja Di Nomer Di Atas"
 fi
 
-if [ $bro = 5 ] || [ $bro = 5 ]
+if [ $bro = 6 ] || [ $bro = 6 ]
 then
 clear
 
